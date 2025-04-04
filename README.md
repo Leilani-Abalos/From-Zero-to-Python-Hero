@@ -1,6 +1,8 @@
 # From-Zero-to-Python-Hero
 CLDSTEM Beginner Python Workshop by CDT Leilani Abalos '27
+
 United States Military Academy, West Point, NY
+
 (Last updated April 9 2025)
 
 ## Overview
